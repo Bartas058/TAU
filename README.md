@@ -9,3 +9,4 @@ Każde zadanie znajduje się w osobnym katalogu i posiada własny plik `README.m
 ## Zadania
 
 1. [**Zjazd 1**](LAB-1/README.md)
+2. [**Zjazd 2**](LAB-2/README.md)
