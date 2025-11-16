@@ -1,0 +1,25 @@
+name: 'LAB-3'
+
+on:
+  push:
+    paths:
+      - 'LAB-3/**'
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@dded0888837ed1f317902acf8a20df0ad188d165 # v5.0.0
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+
+      - name: Test
+        working-directory: LAB-3
+        run: |
+          ./gradlew test
