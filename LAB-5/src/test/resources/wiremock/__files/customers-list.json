@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2ea68767-1771-429b-9747-172418278ef0",
+    "email": "oliwia@example.com",
+    "fullName": "Oliwia Nowak",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "fce37fbd-1044-4b1b-9d0f-556d1bfe29ae",
+    "email": "klaudia@example.com",
+    "fullName": "Klaudia Kowalska",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "23f30312-bbfc-41ac-bb40-94e2a83debb0",
+    "email": "ewelina@example.com",
+    "fullName": "Ewelina Zielińska",
+    "status": "SUSPENDED"
+  }
+]

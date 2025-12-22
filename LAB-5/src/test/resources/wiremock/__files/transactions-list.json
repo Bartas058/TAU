@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0c184804-3a90-48cf-8576-08a7d48aedca",
+    "paymentId": "0ab77819-f257-49cb-96d0-a6cf9b6fed26",
+    "amount": 100.00,
+    "currency": "PLN",
+    "type": "AUTH",
+    "status": "APPROVED",
+    "createdAt": "2025-12-20T10:15:35Z"
+  },
+  {
+    "id": "3a7bdb4a-4e39-41c8-8454-b7f56cd49941",
+    "paymentId": "89839cd7-266b-4de4-96ba-11f40fc327b9",
+    "amount": 49.99,
+    "currency": "EUR",
+    "type": "CAPTURE",
+    "status": "SETTLED",
+    "createdAt": "2025-12-20T11:00:10Z"
+  },
+  {
+    "id": "82ff08ba-6b1c-4fd7-b155-e251cedda330",
+    "paymentId": "3473a088-adc9-46df-98da-2f3fbc248115",
+    "amount": 250.00,
+    "currency": "USD",
+    "type": "AUTH",
+    "status": "DECLINED",
+    "createdAt": "2025-12-21T08:05:10Z"
+  }
+]

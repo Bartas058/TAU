@@ -1,0 +1,9 @@
+{
+  "id": "0c184804-3a90-48cf-8576-08a7d48aedca",
+  "paymentId": "0ab77819-f257-49cb-96d0-a6cf9b6fed26",
+  "amount": 100.00,
+  "currency": "PLN",
+  "type": "AUTH",
+  "status": "APPROVED",
+  "createdAt": "2025-12-20T10:15:35Z"
+}

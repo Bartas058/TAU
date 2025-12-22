@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0ab77819-f257-49cb-96d0-a6cf9b6fed26",
+    "amount": 100.00,
+    "currency": "PLN",
+    "status": "PENDING",
+    "customerId": "2ea68767-1771-429b-9747-172418278ef0",
+    "createdAt": "2025-12-20T10:15:30Z"
+  },
+  {
+    "id": "89839cd7-266b-4de4-96ba-11f40fc327b9",
+    "amount": 49.99,
+    "currency": "EUR",
+    "status": "CONFIRMED",
+    "customerId": "fce37fbd-1044-4b1b-9d0f-556d1bfe29ae",
+    "createdAt": "2025-12-20T11:00:00Z"
+  },
+  {
+    "id": "3473a088-adc9-46df-98da-2f3fbc248115",
+    "amount": 250.00,
+    "currency": "USD",
+    "status": "CANCELLED",
+    "customerId": "2ea68767-1771-429b-9747-172418278ef0",
+    "createdAt": "2025-12-21T08:05:00Z"
+  }
+]
